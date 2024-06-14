@@ -6,7 +6,7 @@
     },
     {
       "name": "Leukemia",
-      "group": 2
+      "group": 1
     },
     {
       "name": "Colon cancer",
@@ -15926,12 +15926,12 @@
     {
       "source": 37,
       "target": 38,
-      "value": 1
+      "value": 1.0
     },
     {
       "source": 37,
       "target": 39,
-      "value": 2
+      "value": 1.0
     },
     {
       "source": 633,
