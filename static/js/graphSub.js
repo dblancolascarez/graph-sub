@@ -1,15 +1,4 @@
 (function() {
-    /* test data in data/fm.json */
-    /*
-       (a)---------(b)  (c)---------(d)
-           |  |  |           |  |
-    (e)---(f)(g)(h)---------(i)(j)---(k)
-        |                          |
-       (l)------------------------(m)
-                     |
-                    (n)
-    */
-
     // add a method conditionaly
     if (!('xpush' in Array.prototype)) {
         // push value to array only if not already present
