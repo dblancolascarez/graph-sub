@@ -2,7 +2,7 @@
   "nodes": [
     {
       "name": "Deafness",
-      "group": 1
+      "group": 0
     },
     {
       "name": "Leukemia",
@@ -14,27 +14,27 @@
     },
     {
       "name": "Retinitis pigmentosa",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Diabetes mellitus",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Cardiomyopathy",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Mental retardation",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Blood group",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Obesity",
-      "group": 1
+      "group": 7
     },
     {
       "name": "Breast cancer",
@@ -42,39 +42,39 @@
     },
     {
       "name": "Muscular dystrophy",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Charcot-Marie-Tooth disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Epilepsy",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Cataract",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Asthma",
-      "group": 1
+      "group": 9
     },
     {
       "name": "Complementary component deficiency",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Spinocereballar ataxia",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Alzheimer disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Hypertension",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Prostate cancer",
@@ -82,19 +82,19 @@
     },
     {
       "name": "Leigh syndrome",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Fanconi anemia",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Epidermolysis bullosa",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Parkinson disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Thyroid carcinoma",
@@ -102,15 +102,15 @@
     },
     {
       "name": "Myopathy",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Hemolytic anemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Myocardial infarction",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Gastric cancer",
@@ -122,7 +122,7 @@
     },
     {
       "name": "Anemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Pancreatic cancer",
@@ -130,27 +130,27 @@
     },
     {
       "name": "Schizophrenia",
-      "group": 1
+      "group": 13
     },
     {
       "name": "Thrombophilia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Ehlers-Danlos syndrome",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Spastic ataxia/paraplegia",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Severe combined immunodeciency",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Hypercholesterolemia",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Ovarian cancer",
@@ -162,63 +162,63 @@
     },
     {
       "name": "Rheumatoid arthritis",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Ectodermal dysplasia",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Neuropathy",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Factor x deficiency",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Usher syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Cone dystrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Long QT syndrome",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Corneal dystrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Spinal muscular atrophy",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Ichthyosis",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Mitochondrial complex deciency",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Myasthenic syndrome",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Leber congenital amaurosis",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Hypothyroidism",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Hirschsprung disease",
-      "group": 1
+      "group": 16
     },
     {
       "name": "Renal cell carcinoma",
@@ -226,55 +226,55 @@
     },
     {
       "name": "Coronary artery disease",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Amyloidosis",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Osteoporosis",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Epiphyseal dysplasia",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Amyotrophic lateral sclerosis",
-      "group": 1
+      "group": 5
     },
     {
       "name": "MODY",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Dementia",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Pseudohypoaldosteronism",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Macular dystrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Spondyloepiphyseal dysplasia",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Spherocytosis",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Renal tubular acidosis",
-      "group": 1
+      "group": 18
     },
     {
       "name": "Central hypoventilation syndrome",
-      "group": 1
+      "group": 9
     },
     {
       "name": "Melanoma",
@@ -282,19 +282,19 @@
     },
     {
       "name": "Night blindness",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Ataxia",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Malaria",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Atrial fibrillation",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Glioblastoma",
@@ -302,51 +302,51 @@
     },
     {
       "name": "Macular degeneration",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Atopy",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Lipodystrophy",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Bare lymphocyte syndrome",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Holoprosencephaly",
-      "group": 1
+      "group": 19
     },
     {
       "name": "Renal tubular dysgenesis",
-      "group": 1
+      "group": 18
     },
     {
       "name": "Autoimmune disease",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Apolipoprotein deficiency",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Hypertriglyceridemia",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Systemic lupus erythematosus",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Migraine",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Maple syrup urine disease",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Adenocarcinoma",
@@ -358,7 +358,7 @@
     },
     {
       "name": "Platelet defect/deficiency",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Myelogenous leukemia",
@@ -370,15 +370,15 @@
     },
     {
       "name": "Osteopetrosis",
-      "group": 1
+      "group": 11
     },
     {
       "name": "HIV",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Osteoarthritis",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Lung cancer",
@@ -386,35 +386,35 @@
     },
     {
       "name": "Glaucoma",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Lissencephaly",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Keratosis palmoplantaria striata",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Dejerine-Sottas disease",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Neutropenia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Elliptocytosis",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Anterior segment anomalies and cataract",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Thrombocytopenia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Bladder cancer",
@@ -426,15 +426,15 @@
     },
     {
       "name": "Autism",
-      "group": 1
+      "group": 13
     },
     {
       "name": "Huntington disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Waardenburg syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Meningioma",
@@ -442,7 +442,7 @@
     },
     {
       "name": "Retinal cone dsytrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Basal cell carcinoma",
@@ -454,19 +454,19 @@
     },
     {
       "name": "Fundus albipunctatus",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Tetralogy of Fallot",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Preeclampsia",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Ichthyosiform erythroderma",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Adenomas",
@@ -482,15 +482,15 @@
     },
     {
       "name": "Cutis laxa",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Hypercholanemia",
-      "group": 1
+      "group": 16
     },
     {
       "name": "Obsessive-compulsive disorder",
-      "group": 1
+      "group": 13
     },
     {
       "name": "Nonsmall cell lung cancer",
@@ -498,51 +498,51 @@
     },
     {
       "name": "Hypokalemic periodic paralysis",
-      "group": 1
+      "group": 18
     },
     {
       "name": "Ventricular tachycardia",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Hyperparathyroidism",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Nicotine addiction",
-      "group": 1
+      "group": 13
     },
     {
       "name": "Achromatopsia",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Stickler syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Atrioventricular block",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Arrhythmogenic right ventricular dysplasia",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Walker-Warburg syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Dysfibrinogenemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Myoclonic epilepsy",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Erythrokeratoderma",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Pituitary ACTH-secreting adenoma",
@@ -550,11 +550,11 @@
     },
     {
       "name": "Myelodysplastic syndrome",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Epidermolytic hyperkeratosis",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Lipoma",
@@ -562,7 +562,7 @@
     },
     {
       "name": "Exudative vitreoretinopathy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Neurofibromatosis",
@@ -570,23 +570,23 @@
     },
     {
       "name": "Cleft palate",
-      "group": 1
+      "group": 19
     },
     {
       "name": "Albinism",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Pyruvate dehydrogenase deciency",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Insulin resistance",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Omenn syndrome",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Paragangliomas",
@@ -598,35 +598,35 @@
     },
     {
       "name": "Cerebral amyloid angiopathy",
-      "group": 1
+      "group": 5
     },
     {
       "name": "HDL cholesterol level QTL",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Stargardt disease",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Stroke",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Abetalipoproteinemia",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Hyperlipoproteinemia",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Urolithiasise",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Ataxia-telangiectasia",
-      "group": 1
+      "group": 10
     },
     {
       "name": "T-cell lymphoblastic leukemia",
@@ -646,119 +646,119 @@
     },
     {
       "name": "Combined immunodeficiency",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Cerebellar ataxia",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Episodic ataxia",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Malignant hyperthermia susceptibility",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Homocystinuria",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Myotonia congenita",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Osteogenesis imperfecta",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Marfan syndrome",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Intervertebral disc disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "CPT deficiency, hepatic",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Rubenstein-Taybi syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Graves disease",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Peters anomaly",
-      "group": 1
+      "group": 19
     },
     {
       "name": "Subcortical laminar heterotopia",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Becker muscular dystrophy",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Atelosteogenesis",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Waardenburg-Shah syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Emery-Dreifuss muscular dystrophy",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Hemorrhagic diathesis",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Ectopia",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Weill-Marchesani syndrome",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Viral infection",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Afibrinogenemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Jackson-Weiss syndrome",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Kallmann syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Pfeiffer syndrome",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Crouzon syndrome",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Craniosynostosis",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Saethre-Chotzen syndrome",
-      "group": 1
+      "group": 19
     },
     {
       "name": "Cancer susceptibility",
@@ -766,47 +766,47 @@
     },
     {
       "name": "Iridogoniodysgenesis",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Rieger syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Insomnia",
-      "group": 1
+      "group": 13
     },
     {
       "name": "Alexander disease",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Growth hormone",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Vohwinkel syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Acromegaly",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Creutzfeldt-Jakob disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Polycythemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Thrombocythemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Jervell and Lange-Nielsen syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Gastrointestinal stromal tumor",
@@ -818,11 +818,11 @@
     },
     {
       "name": "Angelman syndrome",
-      "group": 1
+      "group": 19
     },
     {
       "name": "Rett syndrome",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Multiple endocrine neoplasia",
@@ -834,7 +834,7 @@
     },
     {
       "name": "Multiple sclerosis",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Cafe-au-lait spots",
@@ -846,23 +846,23 @@
     },
     {
       "name": "Roussy-Levy syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Hypodontia",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Parietal foramina",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Central core disease",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Carney complex",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Neuroblastoma",
@@ -874,39 +874,39 @@
     },
     {
       "name": "Optic atrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Coloboma, ocular",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Hyperprolinemia",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Rh-negative blood type",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Liddle syndrome",
-      "group": 1
+      "group": 18
     },
     {
       "name": "Goiter",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Loeys-Dietz syndrome",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Thyroid hormone resistance",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Sepsis",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Li-Fraumeni syndrome",
@@ -922,31 +922,31 @@
     },
     {
       "name": "Asperger syndrome",
-      "group": 1
+      "group": 13
     },
     {
       "name": "Tangier disease",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Adenosine deaminase deficiency",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Beta-2-adrenoreceptor agonist, reduced response to",
-      "group": 1
+      "group": 20
     },
     {
       "name": "Leanness, inherited",
-      "group": 1
+      "group": 7
     },
     {
       "name": "Alagille syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Atherosclerosis",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Adenoma, periampullary",
@@ -962,51 +962,51 @@
     },
     {
       "name": "Hypoalphalipoproteinemia",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Hypobetalipoproteinemia",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Sea-blue histiocyte disease",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Aquaporin-1 deficiency",
-      "group": 1
+      "group": 20
     },
     {
       "name": "Androgen insensitivity",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Perineal hypospadias",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Placental steroid sulfatase deciency",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Alternating hemiplegia of childhood",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Menkes disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Occipital horn syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "GRACILE syndrome",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Memory impairment",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Papillary serous carcinoma of the peritoneum",
@@ -1014,11 +1014,11 @@
     },
     {
       "name": "Hemiplegic migraine, familial",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Thyrotoxic periodic paralysis",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Non-Hodgkin lymphoma",
@@ -1026,23 +1026,23 @@
     },
     {
       "name": "Hypocalcemia",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Hypocalciuric hypercalcemia",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Creatine phosphokinase",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Rippling muscle disease",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Listeria monocytogenes",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Li Fraumeni syndrome",
@@ -1054,71 +1054,71 @@
     },
     {
       "name": "Caffey disease",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Dissection of cervical arteries",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Achondrogenesis-hypochondrogenesis, type II",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Kniest dysplasia",
-      "group": 1
+      "group": 17
     },
     {
       "name": "SMED Strudwick type",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Wagner syndrome",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Aneurysm, familial arterial",
-      "group": 1
+      "group": 20
     },
     {
       "name": "EBD",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Toenail dystrophy, isolated",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Transient bullous of the newborn",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Fuchs endothelial corneal dystrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Marshall syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "OSMED syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Weissenbacher-Zweymuller syndrome",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Pseudoachondroplasia",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Hemosiderosis, systemic, due to aceruloplasminemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Hypoceruloplasminemia",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Pilomatricoma",
@@ -1126,115 +1126,115 @@
     },
     {
       "name": "Coumarin resistance",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Dopamine beta-hydroxylase deciency",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Angiotensin I-converting enzyme",
-      "group": 1
+      "group": 3
     },
     {
       "name": "SARS, progression of",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Lower motor neuron disease, progressive, without sensory symptoms",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Jensen syndrome",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Mohr-Tranebjaerg syndrome",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Meniere disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Benzene toxicity",
-      "group": 1
+      "group": 20
     },
     {
       "name": "Duchenne muscular dystrophy",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Dilated cardiomyopathy with woolly hair and keratoderma",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Skin fragility-woolly hair syndrome",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Dentin dysplasia, type II",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Dentinogenesis imperfecta, Shields type",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Achondrogenesis Ib",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Diastrophic dysplasia",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Shah-Waardenburg syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "ABCD syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Hematopoiesis, cyclic",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Supravalvar aortic stenosis",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Williams-Beuren syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Estrogen resistance",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Branchiootic syndrome",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Aortic aneurysm",
-      "group": 1
+      "group": 4
     },
     {
       "name": "MASS syndrome",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Shprintzen-Goldberg syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Aarskog-Scott syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Achondroplasia",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Cervical carcinoma",
@@ -1242,203 +1242,203 @@
     },
     {
       "name": "Hypochondroplasia",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Muenke syndrome",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Thanatophoric dysplasia, types I and II",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Apert syndrome",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Beare-Stevenson cutis gyrata syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Craniofacial-skeletal-dermatologic dysplasia",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Hypofibrinogenemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Axenfeld anomaly",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Iris hypoplasia and glaucoma",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Larson syndrome",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Spondylocarpotarsal synostosis syndrome",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Favism",
-      "group": 1
+      "group": 15
     },
     {
       "name": "G6PD deficiency",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Dyserythropoietic anemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Macrothrombocytopenia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Hyperinsulinism",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Adult i phenotype",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Hypoplastic left heart syndrome",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Oculodentodigital dysplasia",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Syndactyly",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Bart-Pumphrey syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Hystrix-like ichthyosis with deafness",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Keratitis-ichthyosis-deafness syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Keratoderma, palmoplantar, with deafness",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Simpson-Golabi-Behmel syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "McCune-Albright syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Osseous heteroplasia",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Pseudohypoparathyroidism",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Somatotrophinoma",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Glutathione synthetase deciency",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Sandho disease, infantile, juvenile, and adult forms",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Hemolytic-uremic syndrome",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Nephropathy-hypertension",
-      "group": 1
+      "group": 18
     },
     {
       "name": "Vertical talus",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Costello syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Apparent mineralocorticoid excess, hypertension due to",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Alcohol dependence",
-      "group": 1
+      "group": 20
     },
     {
       "name": "Anorexia nervosa",
-      "group": 1
+      "group": 7
     },
     {
       "name": "Seasonal affective disorder",
-      "group": 1
+      "group": 13
     },
     {
       "name": "Graft-versus-host disease",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Allergic rhinitis",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Hyperproinsulinemia",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Leprechaunism",
-      "group": 1
+      "group": 19
     },
     {
       "name": "Rabson-Mendenhall syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Pancreatic agenesis",
-      "group": 1
+      "group": 16
     },
     {
       "name": "Macrocytic anemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Myelofibrosis, idiopathic",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Acquired long QT syndrome",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Persistent hyperinsulinemic hypoglycemia of infancy",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Myokymia with neonatal epilepsy",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Mast cell leukemia",
@@ -1446,11 +1446,11 @@
     },
     {
       "name": "Mastocytosis with associated hematologic disorder",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Piebaldism",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Stomach cancer",
@@ -1458,35 +1458,35 @@
     },
     {
       "name": "Cyclic ichthyosis with epidermolytic hyperkeratosis",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Unna-Thost disease, nonepidermolytic",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Nevus, epidermal, epidermolytic hyperkeratotic type",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Laryngoonychocutaneous syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Bone mineral density variability",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Hyperostosis, endosteal",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Osteoporosis-pseudoglioma syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "van Buchem disease",
-      "group": 1
+      "group": 20
     },
     {
       "name": "Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome",
@@ -1494,19 +1494,19 @@
     },
     {
       "name": "Pallidopontonigral degeneration",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Supranuclear palsy",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Tauopathy and respiratory failure",
-      "group": 1
+      "group": 5
     },
     {
       "name": "PPM-X syndrome",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Adrenal adenoma",
@@ -1514,7 +1514,7 @@
     },
     {
       "name": "Angiofibroma, sporadic",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Carcinoid tumor of lung",
@@ -1522,15 +1522,15 @@
     },
     {
       "name": "Prolactinoma, hyperparathyroidism, carcinoid syndrome",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Tietz syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Myeloperoxidase deficiency",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Lynch cancer family syndrome II",
@@ -1538,7 +1538,7 @@
     },
     {
       "name": "Witkop syndrome",
-      "group": 1
+      "group": 19
     },
     {
       "name": "Neurofibrosarcoma",
@@ -1546,35 +1546,35 @@
     },
     {
       "name": "Trismus-pseudocomptodactyly syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Epstein syndrome",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Fechtner syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "May-Hegglin anomaly",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Sebastian syndrome",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Nijmegen breakage syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Coats disease",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Norrie disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Neurofibromatosis",
@@ -1594,51 +1594,51 @@
     },
     {
       "name": "Coronary spasms",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Placental abruption",
-      "group": 1
+      "group": 20
     },
     {
       "name": "Insensitivity to pain",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Leprosy",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Craniofacial-deafness-hand syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Aniridia, type II",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Eye anomalies",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Foveal hypoplasia",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Keratitis",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Morning glory disc anomaly",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Optic nerve hypoplasia/aplasia",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Oligodontia",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Dermatobrosarcoma protuberans",
@@ -1650,43 +1650,43 @@
     },
     {
       "name": "Hypereosinophilic syndrome",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Ossication of the posterior longitudinal spinal ligaments",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Enlarged vestibular aqueduct",
-      "group": 1
+      "group": 0
     },
     {
       "name": "Pendred syndrome",
-      "group": 1
+      "group": 0
     },
     {
       "name": "Myoglobinuria/hemolysis due to PGK deciency",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Emphysema",
-      "group": 1
+      "group": 9
     },
     {
       "name": "Ring dermoid of cornea",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Nevo syndrome",
-      "group": 1
+      "group": 14
     },
     {
       "name": "Pelizaeus-Merzbacher disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Neuroectodermal tumors",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Adrenocortical carcinoma",
@@ -1694,7 +1694,7 @@
     },
     {
       "name": "Myxoma, intracardiac",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Pigmented adrenocortical disease, primary isolated",
@@ -1702,23 +1702,23 @@
     },
     {
       "name": "Gerstmann-Straussler disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Prion disease with protracted course",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Pick disease",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Basal cell nevus syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Bannayan-Riley-Ruvalcaba syndrome",
-      "group": 1
+      "group": 20
     },
     {
       "name": "Lhermitte-Duclos syndrome",
@@ -1730,27 +1730,27 @@
     },
     {
       "name": "VATER association with hydrocephalus",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Leopard syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Noonan syndrome",
-      "group": 1
+      "group": 19
     },
     {
       "name": "Zlotogora-Ogur syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Capillary malformations",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Parkes Weber syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Retinoblastoma",
@@ -1758,63 +1758,63 @@
     },
     {
       "name": "Butterfly dystrophy, retinal",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Foveomacular dystrophy, adult-onset, with choroidal neovascularization",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Hyperproreninemia",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Colonic aganglionosis, total, with small bowel involvement",
-      "group": 1
+      "group": 16
     },
     {
       "name": "Rh-mod syndrome",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Bothnia retinal dystrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Newfoundland rod-cone dystrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Coffin-Lowry syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Cramps, potassium-aggravated",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Hyperkalemic periodic paralysis",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Paramyotonia congenita",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Brugada syndrome",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Heart block",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Sick sinus syndrome",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Ventricular brillation, idiopathic",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Carcinoid tumors, intestinal",
@@ -1826,35 +1826,35 @@
     },
     {
       "name": "Solitary median maxillary central incisor",
-      "group": 1
+      "group": 17
     },
     {
       "name": "Fanconi-Bickel syndrome",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Anxiety-related personality traits",
-      "group": 1
+      "group": 13
     },
     {
       "name": "Creatine deciency syndrome, X-linked",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Infundibular hypoplasia and hypopituitarism",
-      "group": 1
+      "group": 3
     },
     {
       "name": "PCWH",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Yemenite deaf-blind hypopigmentation syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Pyropoikilocytosis",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Peutz-Jeghers syndrome",
@@ -1862,31 +1862,31 @@
     },
     {
       "name": "Hypoglycemia",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Wegener granulomatosis",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Barth syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Noncompaction of left ventricular myocardium",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Glomerulocystic kidney disease, hypoplastic",
-      "group": 1
+      "group": 18
     },
     {
       "name": "Autoimmune thyroid disease",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Self-healing collodion baby",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Adrenal cortical carcinoma",
@@ -1906,27 +1906,27 @@
     },
     {
       "name": "Hyperthyroidism",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Total iodide organication defect",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Hyperthroidism",
-      "group": 1
+      "group": 3
     },
     {
       "name": "Amyloid neuropathy",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Carpal tunnel syndrome, familial",
-      "group": 1
+      "group": 20
     },
     {
       "name": "Dystransthyretinemic hyperthyroxinemia",
-      "group": 1
+      "group": 6
     },
     {
       "name": "Hemangioblastoma, cerebellar",
@@ -1934,31 +1934,31 @@
     },
     {
       "name": "Maculopathy, bull's-eye",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Vitelliform macular dystrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Wiskott-Aldrich syndrome",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Denys-Drash syndrome",
-      "group": 1
+      "group": 18
     },
     {
       "name": "Frasier syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Mesangial sclerosis",
-      "group": 1
+      "group": 18
     },
     {
       "name": "WAGR syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Salivary adenoma",
@@ -1970,7 +1970,7 @@
     },
     {
       "name": "Miyoshi myopathy",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Oligodontia-colorectal cancer syndrome",
@@ -1978,11 +1978,11 @@
     },
     {
       "name": "Incontinentia pigmenti",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Arthropathy",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Mesothelioma",
@@ -1994,3687 +1994,3687 @@
     },
     {
       "name": "Myotilinopathy",
-      "group": 1
+      "group": 8
     },
     {
       "name": "Enhanced S-cone syndrome",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Netherton syndrome",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Pigmented paravenous chorioretinal atrophy",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Silver spastic paraplegia syndrome",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Craniofacial anomalies, empty sella turcica, corneal endothelial changes",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Keratoconus",
-      "group": 1
+      "group": 2
     },
     {
       "name": "Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked",
-      "group": 1
+      "group": 11
     },
     {
       "name": "IgE levels QTL",
-      "group": 1
+      "group": 10
     },
     {
       "name": "Wolff-Parkinson-White syndrome",
-      "group": 1
+      "group": 4
     },
     {
       "name": "Primary lateral sclerosis",
-      "group": 1
+      "group": 5
     },
     {
       "name": "3-methylglutaconicaciduria",
-      "group": 1
+      "group": 15
     },
     {
       "name": "Convulsions",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Infantile spasm syndrome",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Partington syndrome",
-      "group": 1
+      "group": 5
     },
     {
       "name": "Proud syndrome",
-      "group": 1
+      "group": 11
     },
     {
       "name": "Birt-Hogg-Dube syndrome",
-      "group": 1
+      "group": 12
     },
     {
       "name": "Pneumothorax, primary spontaneous",
-      "group": 1
+      "group": 9
     },
     {
       "name": "MTP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CNGA3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GNAT2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SSTR5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PLAG1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OCA2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TYRP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GFAP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "A2M",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APBB2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BLMH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PLAU",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PSEN2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PAXIP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GSN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LYZ",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NEFH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRPH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SOD1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ABCB7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ALAS2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC11A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PKLR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RPS19",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NT5C3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CDAN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "UBE3A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FOXE3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APOC3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APOH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PKP2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MS4A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HNMT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IL12B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IL13",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTGDR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SCGB1A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SCGB3A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GPR154",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TTPA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ALS4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APTX",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATCAY",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MRE11A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ALOX5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IL4R",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SELP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HAVCR1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GATA4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRELD1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GLO1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NLGN3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AIRE",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RFX5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RFXAP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TAPBP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SMO",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ABO",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ACHE",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AQP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AQP3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DO",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BSG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CD44",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CR1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DAF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FUT3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GCNT2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GYPA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GYPB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ICAM4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KEL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LU",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC14A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "XG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "B3GALT3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "A4GALT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EYA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BARD1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PHB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RAD51",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TSG101",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PPM1D",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RB1CC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C1QA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C1QB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C1QG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C1S",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C4A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C4B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C8B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C9",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FGFR4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ACTC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYBPC3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYH6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYL2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYL3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PLN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TNNC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TNNI3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TNNT2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TPM1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CSRP3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ABCC9",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYLK2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRYAA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRYBA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRYBB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRYBB2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRYGC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRYGD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GJA3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GJA8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HSF4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LIM2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MIP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PITX3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BFSP2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CST3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DNM2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GJB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NEFL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RAB7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MTMR2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LITAF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MFN2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDRG1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KIF1B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GDAP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SH3TC2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SBF2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TBX22",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BUB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BUB1B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DCC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MCC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NRAS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ODC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PLA2G2A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PMS1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTPN12",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTPRJ",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SRC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DLC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MLH3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GUCA1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TACSTD2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TGFBI",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KERA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PIP5K3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MEF2A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MMP3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PON1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PON2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CPT1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HLA-DQB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ACTG1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATP2B2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRYM",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DFNA5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DIAPH1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EYA4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYO1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYO6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "POU3F4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "POU4F3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TECTA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNQ4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OTOF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CLDN14",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DFNB31",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYO15A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYO3A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KIAA1199",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TMPRSS3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYH14",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GRHL2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ESPN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TMC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OTOA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "STRC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TMIE",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC26A5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRX",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SNCB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ITM2B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DSPP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AKT2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GCGR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GPD2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IRS1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NEUROD1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC2A4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "VEGF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IRS2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MAPK8IP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CAPN10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTF1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SUMO4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DMD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FGA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TTR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EDA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NFKBIA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PKP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GJB6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EDAR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EDARADD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL5A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL5A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TNXB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ADAMTS2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "B4GALT7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EPB41",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EMD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MSH3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL17A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ITGA6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ITGB4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KRT5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KRT14",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LAMB3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LAMC2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KRT9",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CACNB4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHRNB2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CLCN2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CSTB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GABRA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNQ3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ME2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SCN1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SYN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EPM2A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "JRK",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC25A22",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NHLRC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL9A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC26A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GJB3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GJB4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RNF6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LZTS1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "WWOX",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FZD4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "F10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "F11",
-      "group": 1
+      "group": 21
     },
     {
       "name": "F12",
-      "group": 1
+      "group": 21
     },
     {
       "name": "F13A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "F13B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MCFD2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FANCA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FANCC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FANCD2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FANCE",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FANCB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FANCF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FANCG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FANCL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FANCM",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BRIP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC2A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL8A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RDH5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IL1B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IL1RN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MUTYH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYOC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OPTN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DMBT1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LGI1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GHRHR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AK1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BPGM",
-      "group": 1
+      "group": 21
     },
     {
       "name": "G6PD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GCLC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GPI",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GSS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HK1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TPI1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SERPINA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CASP8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IGF2R",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PDGFRL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AXIN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GDNF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NRTN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CCR2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CCR5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CCL5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SIX3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TGIF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ZIC2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MTHFR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "JPH3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BAAT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TJP2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APOA2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EPHX2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ITIH4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LDLR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C7orf16",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LDLRAP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PCSK9",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PDGFRA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APOC2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ALDH4A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ADD1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CYP3A5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ECE1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GNB3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HSD11B2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNMB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTGIS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RETN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APOA5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LIPI",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APOA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APOB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CASR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ABCC8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNE3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CTLA4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC5A5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TSHB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PAX8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DUOX2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ALOX12B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ALOXE3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KRT2A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ABCA12",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ICHTHYIN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PHF11",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FOXP3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IKBKG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GABRB3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PPP1R3A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTPN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL9A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL9A3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KAL1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "VSX1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DSG1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SAT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LAMA3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GUCY2D",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RPGRIP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RDH12",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COX15",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDUFS3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDUFS8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SURF1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LRPPRC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDUFS7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ABL1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ARNT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BCL2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BCR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CEBPA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NQO1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FLT3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HOXD4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NPM1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NUMA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "P2RX7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PML",
-      "group": 1
+      "group": 21
     },
     {
       "name": "STAT5B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TAL1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TAL2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TRA@",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ZBTB16",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NUP214",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MLLT10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PICALM",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GMPS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ZNFN1A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MLLT11",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ARHGAP26",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ARHGEF12",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHIC2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "WHSC1L1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ARL11",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LMNA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AGPAT2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PPARGC1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LPP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RELN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TGFBR1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TGFBR2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ANK2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNE1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNH2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNJ2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNQ1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNE2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DCTN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MAP3K8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PPP2R1B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BCL8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FCGR2B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SH2D1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RAP1GDS1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RAD54L",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RAD54B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GATA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FBLN5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CNGB3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HMCN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GYPC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ICAM1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NOS2A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BCKDHA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BCKDHB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DBT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GCSL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTCH2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SUFU",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CDK4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "XRCC3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COCH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PDGFB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AGTR2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DLG3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ACSL4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FGD1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AFF2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GDI1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OPHN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PAK3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RPS6KA3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SMS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SOX3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TSPAN7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ZNF41",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SMCX",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRSS12",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ARHGEF6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IL1RAPL1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FTSJ1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRBN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NLGN4X",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ZNF81",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATP1A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EDNRA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ESR1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BCS1L",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDUFS1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDUFS2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDUFV1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDUFS4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SDHA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "UQCRB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GCK",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HNF4A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "INS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TCF1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TCF2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TIMM8A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CAPN3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LAMA2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PLEC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SGCA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SGCB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SGCD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SGCG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TTN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TCAP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LARGE",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TRIM32",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SEPN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FKRP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHAT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHRNA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHRNB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHRND",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHRNE",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RAPSN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MDS1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CBFB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CSF1R",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ACSL6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MPO",
-      "group": 1
+      "group": 21
     },
     {
       "name": "F7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GCLM",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LGALS2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LTA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OLR1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TNFSF4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GABRG2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EFHC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PGK1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNQ2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ACTA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CPT2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRYAB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DES",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ITGA7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYF6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PGAM2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DYSF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYOT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CLCN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CFH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SPINK5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NME1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PHOX2B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EGR2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HSPB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NGFB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SPTLC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HSPB8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HSN2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ELA2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GFI1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PLOD1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KRT10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHRNA4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CYP2A6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GPR51",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CACNA1F",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GNAT1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NYX",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NBN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TAZ",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CASP10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BRAF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EGFR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IRF1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTPN11",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ADRB2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ADRB3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AGRP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AKR1C2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LEP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LEPR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MC3R",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MC4R",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NTRK2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PCSK1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "POMC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PPARG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SIM1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "UCP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "UCP2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "UCP3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NR0B2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CART",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC6A14",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GHRL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BDNF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC6A4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATP7A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PAX9",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AXIN2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OPA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OPA3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ENPP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FRZB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ASPN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CLCN7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TCIRG1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OSTM1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CALCA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CALCR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL1A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL1A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CDH1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ERBB2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MSH6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MSH2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PIK3CA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RRAS2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ACVR1B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CDKN2A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RBBP8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ARMET",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BRCA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SDHC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SCN4A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CDC73",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MSX2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ALX4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RASA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DBH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NDUFV2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NR4A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PARK2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SNCA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "UCHL1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SNCAIP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PARK7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PINK1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LRRK2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC26A4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CYP1B1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "STK11",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FGFR1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SDHB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SDHD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PSEN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KIT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CTNNB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "THRA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CD36",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PLA2G7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "P2RY12",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BMPR1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SMAD4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EPHX1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "STOX1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRNP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATBF1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KLF6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EPHB2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MSR1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MXI1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RNASEL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MAD1L1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHEK2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ELAC2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ARX",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COMP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NR3C2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SCNN1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SCNN1B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SCNN1G",
-      "group": 1
+      "group": 21
     },
     {
       "name": "WNK1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "WNK4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PDHA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PDHB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "INSR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MET",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OGG1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRCC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TFE3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RNF139",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FLCN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PROM1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LRAT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C1QTNF5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CA4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CNGB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CNGA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRX",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IMPDH1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NRL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PDE6A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PDE6B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RGR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RHO",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RLBP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ROM1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RP9",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RP2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RPGR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RPE65",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TULP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRPF3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NR2E3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MERTK",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRPF8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CRB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AIPL1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FSCN2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRPF31",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CERKL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RB1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MECP2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CDKL5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FOXO1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC22A18",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PAX7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RUNX1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IL10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MIF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NFKBIL1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC22A4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PADI4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RHAG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RHCE",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RHD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FOXC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PITX2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CAV3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MPZ",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PMP22",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CREBBP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EP300",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FGFR2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TWIST1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COMT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRODH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SYN2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ENTH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DISC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RTN4R",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TAAR6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NF2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APOE",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HTR2A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYH9",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TGM1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TNF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CASP12P1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ADA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CD3D",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IL7R",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RAG1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RAG2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DCLRE1C",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BCL10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EDN3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DSP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SHH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GNAS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HSPD1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KIF5A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PLP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SPAST",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SPG7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SACS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SPG3A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ALS2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NIPA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ANK1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EPB42",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SPTA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SPTB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GARS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HEXB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IGHMBP2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SMN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "VAPB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BSCL2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CACNA1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FGF14",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PPP2R2B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRKCG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATXN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATXN2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATXN7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KLHL1AS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TBP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATXN10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PLEKHG4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TDP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SCA25",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FLNB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AGC1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MATN3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TRAPPC2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "WISP3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHST3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FAS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ING1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TNFRSF10B",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL11A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KRAS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ALOX5AP",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PDE4D",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DCX",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PAFAH1B1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FASLG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "DNASE1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PDCD1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTPN22",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ABCA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MAPT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATM",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BAX",
-      "group": 1
+      "group": 21
     },
     {
       "name": "JAG1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NKX2-5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ZFPM2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FGFR3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "JAK2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "THPO",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MPL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MASTL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CBS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "F5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FGB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FGG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SERPIND1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HRG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PROC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "THBD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ADAMTS13",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HRAS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PCM1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TSHR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NCOA4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TRIM24",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MINPP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GOLGA5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TRIM33",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CACNA1S",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL7A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYH8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MLH1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PMS2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KRT1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "APRT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC34A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYO7A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "USH2A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "USH3A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "USH1C",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CDH23",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PCDH15",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MASS1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "USH1G",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HMGA2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LRP5",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTEN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CASQ2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GNAI2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RYR2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "HOXD10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FCGR3A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "OAS1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GJB2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "LOR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CCND1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "VHL",
-      "group": 1
+      "group": 21
     },
     {
       "name": "EDNRB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MITF",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PAX3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SNAI2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TYR",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL2A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FCMD",
-      "group": 1
+      "group": 21
     },
     {
       "name": "POMT1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RAB3GAP1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NF1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TAP2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "FBN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ADAMTS10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL11A2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ELN",
-      "group": 1
+      "group": 21
     },
     {
       "name": "BRCA2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GPC3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "WT1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "POU6F2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "WAS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MSX1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRKAG2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SOX10",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PVRL1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "COL3A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTCH",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MEN1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "MYH7",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RYR1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NOS3",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC6A8",
-      "group": 1
+      "group": 21
     },
     {
       "name": "GJA1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ABCA4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CHST6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RDS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ELOVL4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "VMD2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "NTRK1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "RET",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IPF1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "KCNJ11",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PRKAR1A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "THRB",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TPO",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SCN5A",
-      "group": 1
+      "group": 21
     },
     {
       "name": "C6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "IL2RG",
-      "group": 1
+      "group": 21
     },
     {
       "name": "TP53",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PAX6",
-      "group": 1
+      "group": 21
     },
     {
       "name": "STS",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATP6V1B1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CA2",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC4A1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "SLC4A4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ATP6V0A4",
-      "group": 1
+      "group": 21
     },
     {
       "name": "CIITA",
-      "group": 1
+      "group": 21
     },
     {
       "name": "PTPRC",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AGT",
-      "group": 1
+      "group": 21
     },
     {
       "name": "AGTR1",
-      "group": 1
+      "group": 21
     },
     {
       "name": "ACE",
-      "group": 1
+      "group": 21
     },
     {
       "name": "REN",
-      "group": 1
+      "group": 21
     }
   ],
   "links": [

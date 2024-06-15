@@ -12,15 +12,24 @@ def getTargetNode(input_data, key):
 def transform_json(input_data):
     nodes = []
     links = []
-    counter=0
+    colors=[]
+
     # Process nodes
     for node in input_data['nodes']:
-        nodes.append({
-            "name": node['attributes']['label'],
-            "group": 1  # Assuming a default group value as the input JSON does not specify group
-        })
-        counter+=1
-    
+        if node["attributes"]["color"] not in colors:
+            colors.append(node["attributes"]["color"])
+            grupo= colors.index(node["attributes"]["color"])
+            nodes.append({
+                "name": node['attributes']['label'],
+                "group": grupo  # Assuming a default group value as the input JSON does not specify group
+            })
+        else:
+            grupo= colors.index(node["attributes"]["color"])
+            nodes.append({
+                "name": node['attributes']['label'],
+                "group": grupo  # Assuming a default group value as the input JSON does not specify group
+            })
+
     # Process edges
     for edge in input_data['edges']:
         links.append({
@@ -34,7 +43,6 @@ def transform_json(input_data):
         "nodes": nodes,
         "links": links
     }
-    print(counter)
     return transformed_data
 
 # Function to read input JSON file, transform it, and write to output JSON file
