@@ -564,7 +564,7 @@ function loadData(dataset) {
     d3.json(dataset, function(error, graph) {
         if (error) throw error;
 
-
+        document.getElementById('chart').innerHTML = '';
 
         // Parse JSON into the correct format if needed
 
@@ -580,23 +580,3 @@ function loadData(dataset) {
 }
 
 
-
-
-/*
-
-d3.json("data/diseases.json", function(error, graph) {
-    if (error) throw error;
-
-    // Parse JSON into the correct format if needed
-
-    var chart = d3.graphSub()
-        .width(760)
-        .height(500)
-        .hops(2);
-    //console.log(graph);
-
-    d3.select("#chart")
-        .datum(graph)
-        .call(chart);
-});
-*/
