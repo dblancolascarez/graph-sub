@@ -1,7 +1,6 @@
 (function() {
-    // add a method conditionaly
+
     if (!('xpush' in Array.prototype)) {
-        // push value to array only if not already present
         Array.prototype.xpush = function(value) {
             if (this.indexOf(value) === -1) {
                 this.push(value);
@@ -21,7 +20,7 @@
         function chart(selection) {
             selection.each(function(d, i) {
 
-                // DOM to which to attach the vizualization
+                // DOM
                 var current_selection = this;
 
                 var model = {};
@@ -38,7 +37,7 @@
                         model.labelAnchors = model.force2.nodes();
                         model.labelAnchorLinks = model.force2.links();
 
-                        // setup search-box data
+                        // Busqueda de nodos
                         model.nodeNames = [];
                         for (var i = 0; i < model.graph.nodes.length; i++) {
                             model.nodeNames.push({
@@ -61,7 +60,7 @@
                         return model.graph.links;
                     },
 
-                    // add link to the layout
+                    // layout link
                     addLink: function(source, target, value) {
                         var link = {
                             "source": this.findNode(source),
@@ -71,19 +70,16 @@
                         model.subNetLinks.push(link);
                     },
 
-                    // look for the node in the d3 layout
                     findNode: function(name) {
                         for (var i in model.graph.nodes) {
                             if (model.graph.nodes[i]["name"] === name) return model.graph.nodes[i];
                         };
                     },
 
-                    // remove all links from the layout
                     removeAllLinks: function(linkArray) {
                         linkArray.splice(0, linkArray.length);
                     },
 
-                    // remove all node from the layout
                     removeAllNodes: function(nodeArray) {
                         nodeArray.splice(0, nodeArray.length);
                     },
@@ -98,7 +94,6 @@
 
                     createAnchors: function() {
                         for (var i = 0; i < model.subNetNodes.length; i++) {
-                            // one node is anchor to the force1 node
                             var n = {
                                 label: model.subNetNodes[i]
                             };
@@ -116,7 +111,7 @@
 
                     createAnchorLinks: function() {
                         for (var i = 0; i < model.subNetNodes.length; i++) {
-                            // nodes are connected in pairs
+                            // los nodos estan conectados en parejas
                             model.labelAnchorLinks.push({
                                 source: i * 2,
                                 target: i * 2 + 1,
@@ -126,8 +121,8 @@
                     },
 
                     getSubnet: function(currentIndex, hops) {
-                        // links stored as JSON objects, easy to compare
-                        // operates on the data loaded from the JSON
+                        // Los links son guardados como objetos JSON
+                        // Se cargan los datos del JSON
                         var n = model.graph.nodes[currentIndex];
 
                         model.subNetNodes.xpush(n);
@@ -150,11 +145,10 @@
                     },
 
                     click: function(d) {
-                        //console.log(d);
                         var nodeName;
 
                         if (d.hasOwnProperty('node')) {
-                            // the callback route
+
                             nodeName = d.node.label.name;
                         } else {
                             nodeName = d.name;
@@ -162,12 +156,11 @@
 
                         $("#search").val(nodeName);
 
-                        // graph refreshed onces after nodes is added then after links
-                        // prevents wild variations in graph render.
-                        model.linkStrings = []; // var to ensure links no repeated
+                        // Refrescar grafo con nuevos links
+                        model.linkStrings = []; // variable para almacenar links
 
-                        this.removeAllNodes(model.subNetNodes); // clears force.nodes()
-                        this.removeAllLinks(model.subNetLinks); // clears force.links()
+                        this.removeAllNodes(model.subNetNodes); 
+                        this.removeAllLinks(model.subNetLinks); 
 
                         this.removeAllNodes(model.labelAnchors);
                         this.removeAllLinks(model.labelAnchorLinks);
@@ -176,16 +169,13 @@
                             source,
                             target;
 
-                        // first the nodes and anchors
-                        // extract subnet around 'd' with all nodes up to 2 hops away
+
                         this.getSubnet(this.findNodeIndex(nodeName, model.graph.nodes), config.hops);
                         this.createAnchors();
 
                         view.render();
 
 
-                        // now the links and anchor links
-                        // add links incrementaly
                         for (var i = 0; i < model.linkStrings.length; i++) {
                             link = JSON.parse(model.linkStrings[i]);
 
@@ -198,9 +188,6 @@
                         this.createAnchorLinks();
 
                         view.render();
-
-                        // console.log(JSON.stringify(model.subNetNodes));
-                        // console.log(JSON.stringify(model.subNetLinks));
                     }
 
                 };
@@ -223,7 +210,6 @@
                             .attr("perserveAspectRatio", "xMinYMid")
                             .append('svg:g');
 
-                        //Per-type markers, as they don't inherit styles.
                         this.viz.insert("defs")
                             .selectAll("marker")
                             .data(["suit", "licensing", "resolved"])
@@ -240,9 +226,7 @@
                             .attr("orient", "auto")
                             .append("path")
                             .attr("d", "M0,-1L5,0L0,1");
-                        //.attr("M0,-5L10,0L0,5");
 
-                        // linear gradient for the lines
                         d3.select("defs")
                             .insert("linearGradient")
                             .attr("id", "linearGradient")
@@ -264,18 +248,14 @@
                             .attr("stop-color", "grey")
                             .attr("stop-opacity", "1");
 
-                        // female D54A5C
-                        // male A2C1D5
-                        // clear search box
+
                         $("#search").val('');
 
-                        // bind search values do the search box
                         $("#search").autocomplete({
                             source: model.nodeNames,
 
                             select: function(event, ui) {
                                 event.preventDefault();
-                                //console.log(+ui.item.value);
                                 controller.click(controller.graphNodes()[+ui.item.value], +ui.item.value);
                                 $("#search").val(ui.item.label);
                             },
@@ -315,7 +295,6 @@
                             .attr("opacity", "0.5")
                             .attr("class", "link")
                             .attr("marker-end", "url(#suit)");
-                        //.attr("stroke", "url(#linearGradient)")
 
                         // update
                         link.append("title")
@@ -353,16 +332,13 @@
                         // exit
                         node.exit().remove();
 
-                        // Force2 labels
-
                         // join
                         var anchorLink = this.viz.selectAll("line.anchorLink")
-                            .data(model.labelAnchorLinks); //.enter().append("svg:line").attr("class", "anchorLink").style("stroke", "#999");
+                            .data(model.labelAnchorLinks); 
 
                         // join
                         var anchorNode = this.viz.selectAll("g.anchorNode")
                             .data(model.labelAnchors, function(d, i) {
-                                //console.log(d.node.label.name + d.type);
                                 return d.node.label.name + d.type;
                             });
 
@@ -394,15 +370,10 @@
                             .style("font-family", "Arial")
                             .style("font-size", 20);
 
-                        // add coloured box around text
+                        // cuadro de color en el texto
                         anchorNode.each(function(d, i) {
                             if (i % 2 != 0) {
-                                // prevents two rects being added
-                                // due to render being called twice in 
-                                // click func.
-                                //console.log(this.childNodes[2]);
                                 var textElem = this.childNodes[1].getBBox();
-                                //console.log(textElem);
                                 if (this.childNodes.length === 2) {
                                     d3.select(this)
                                         .insert("rect", "text")
@@ -423,7 +394,6 @@
                         // exit
                         anchorNode.exit().remove();
 
-                        // Restart the force layout.
                         model.force
                             .size([config.width, config.height])
                             .charge(-3000)
@@ -431,7 +401,6 @@
                             .linkDistance(50)
                             .start();
 
-                        // restart the labels force layout
                         model.force2
                             .size([config.width, config.height])
                             .gravity(0)
@@ -440,8 +409,6 @@
                             .charge(-200)
                             .start();
 
-                        //console.log('selection', anchorNode);
-                        //console.log('force datum', force2.nodes());
 
                         var updateLink = function() {
                             this.attr("x1", function(d) {
@@ -457,7 +424,6 @@
 
                         var updateNode = function() {
                             this.attr("transform", function(d) {
-                                //console.log('line 398',d.x, d.y);
                                 return "translate(" + d.x + "," + d.y + ")";
                             });
                         }
@@ -476,7 +442,6 @@
                                     d.x = d.node.label.x;
                                     d.y = d.node.label.y;
                                 } else {
-                                    // get the bounding box
                                     var b = this.childNodes[1].getBBox();
 
                                     var diffX = d.x - d.node.label.x;
@@ -489,9 +454,8 @@
 
                                     var shiftY = 5;
 
-                                    // move the label of the current anchor
                                     this.childNodes[1].setAttribute("transform", "translate(" + shiftX + "," + shiftY + ")");
-                                    // move the coloured box of the current anchor
+  
                                     this.childNodes[2].setAttribute("transform", "translate(" + shiftX + "," + shiftY + ")");
                                 }
                             });
@@ -506,7 +470,6 @@
 
                 }
 
-                // make it all go
                 controller.init();
             });
 
@@ -516,19 +479,19 @@
         chart.width = function(value) {
             if (!arguments.length) return config.width;
             config.width = value;
-            return chart; // enable chaining
+            return chart; 
         };
 
         chart.height = function(value) {
             if (!arguments.length) return config.height;
             config.height = value;
-            return chart; // enable chaining
+            return chart; 
         };
 
         chart.hops = function(value) {
             if (!arguments.length) return config.hops;
             config.hops = value;
-            return chart; // enable chaining
+            return chart; 
         };
 
         return chart;
@@ -537,11 +500,6 @@
 })();
 
 /*----------------------------------------------------------------------------
-The code example below:
-1. loads the JSON data.
-2. Sets the width to 760px. 
-3. Set the height to 500px.
-4. Attaches the cahrt to the DOM element with id #chart
 */
 
 
@@ -555,7 +513,6 @@ $(function() {
         loadData(selectedValue);
     });
 
-    // Load initial data
     loadData("data/diseases.json");
 });
 
@@ -566,7 +523,6 @@ function loadData(dataset) {
 
         document.getElementById('chart').innerHTML = '';
 
-        // Parse JSON into the correct format if needed
 
         var chart = d3.graphSub()
             .width(760)
