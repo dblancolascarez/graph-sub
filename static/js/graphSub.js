@@ -544,7 +544,47 @@ The code example below:
 4. Attaches the cahrt to the DOM element with id #chart
 */
 
-d3.json("data/miserables.json", function(error, graph) {
+
+$(function() {
+    $("#search").autocomplete({
+        source: ["Diseases", "Eurosis", "School"]
+    });
+
+    $("#combobox").on("change", function() {
+        var selectedValue = $(this).val();
+        loadData(selectedValue);
+    });
+
+    // Load initial data
+    loadData("data/diseases.json");
+});
+
+function loadData(dataset) {
+
+    d3.json(dataset, function(error, graph) {
+        if (error) throw error;
+
+
+
+        // Parse JSON into the correct format if needed
+
+        var chart = d3.graphSub()
+            .width(760)
+            .height(500)
+            .hops(2);
+
+        d3.select("#chart")
+            .datum(graph)
+            .call(chart);
+    });
+}
+
+
+
+
+/*
+
+d3.json("data/diseases.json", function(error, graph) {
     if (error) throw error;
 
     // Parse JSON into the correct format if needed
@@ -559,3 +599,4 @@ d3.json("data/miserables.json", function(error, graph) {
         .datum(graph)
         .call(chart);
 });
+*/

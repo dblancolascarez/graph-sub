@@ -33,6 +33,11 @@
             border-style: solid;
             border-width: 2px;
             border-color: white;
+            
+        }
+
+        .combobox-container {
+            display: inline-block;
         }
 
         body {
@@ -44,6 +49,14 @@
 <div class="ui-widget">
   <label for="search">Search: </label>
   <input id="search">
+</div>
+<div class="ui-widget combobox-container">
+    <label for="combobox">Select dataset: </label>
+    <select id="combobox">
+        <option value="data/diseases.json">Diseases</option>
+        <option value="data/eurosis.json">Eurosis</option>
+        <option value="data/school.json">School</option>
+    </select>
 </div>
 <div id="chart">    
 </div>
