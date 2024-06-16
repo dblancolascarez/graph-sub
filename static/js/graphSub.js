@@ -293,6 +293,7 @@
                             })
                             .attr("stroke", "grey")
                             .attr("opacity", "0.5")
+                            .attr()
                             .attr("class", "link")
                             .attr("marker-end", "url(#suit)");
 
